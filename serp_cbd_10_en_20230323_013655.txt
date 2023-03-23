@@ -409,10 +409,27 @@ URL: https://www.fda.gov/news-events/public-health-focus/fda-regulation-cannabis
 Title: FDA Regulation of Cannabis and ...
 Description: No description available
 Position: 9
-Error: HTTPSConnectionPool(host='www.fda.gov', port=443): Max retries exceeded with url: /news-events/public-health-focus/fda-regulation-cannabis-and-cannabis-derived-products-including-cannabidiol-cbd (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015D365914D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+Error: 
 Headers:
-
-Word_Count: 0
+<h1> U.S. Food and Drug Administration
+<h1> FDA Regulation of Cannabis and Cannabis-Derived Products, Including Cannabidiol (CBD)
+<h2> Featured
+<h2> Products
+<h2> Topics
+<h2> Information For
+<h2> FDA News Releases and Statements
+<h2> Consumer Information
+<h2> FDA Remarks and Testimony
+<h2> Science & Research
+<h2> Other Regulatory Resources
+<h2> Questions and Answers
+<h2> Research and Expanded Access
+<h2> Children and Pregnant/Lactating Women
+<h2> Pets and other Animals
+<h2> Content current as of:
+<h2> Footer Links
+<h3> On this page:
+Word_Count: 7773
 
 --------------------------------------------------------------------------------
 
@@ -519,7 +536,7 @@ Word_Count: 4069
 
 --------------------------------------------------------------------------------
 
-URL: https://www.google.com/search?q=cbd&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=WtI6E4UKzZkpUM%252CEymBeXXSqBxOnM%252C_%253B1CHGaN4AZG-pJM%252CXTIGBK5sykw-FM%252C_%253BkQbb2oK9WCuRSM%252CbsOumqCT0Dyx9M%252C_%253BTRRNEJjeORKgyM%252CPAo4j5aNUrPBuM%252C_%253B4MVbDX7-UnSWQM%252CpNoHC3RHxj0QqM%252C_%253BVIO6L1v4ZVjRDM%252CQrHIrkckBZzJpM%252C_&usg=AI4_-kSEZmgwEQtYtNc2muE8euUSWWF-ow&sa=X&ved=2ahUKEwi-sfCq0fH9AhWSOkQIHdOjBPYQ_h16BAhpEAE#imgrc=WtI6E4UKzZkpUM
+URL: https://www.google.com/search?q=cbd&hl=en&tbm=isch&source=iu&ictx=1&vet=1&fir=WtI6E4UKzZkpUM%252CEymBeXXSqBxOnM%252C_%253B1CHGaN4AZG-pJM%252CXTIGBK5sykw-FM%252C_%253BkQbb2oK9WCuRSM%252CbsOumqCT0Dyx9M%252C_%253BTRRNEJjeORKgyM%252CPAo4j5aNUrPBuM%252C_%253B4MVbDX7-UnSWQM%252CpNoHC3RHxj0QqM%252C_%253BVIO6L1v4ZVjRDM%252CQrHIrkckBZzJpM%252C_&usg=AI4_-kSEZmgwEQtYtNc2muE8euUSWWF-ow&sa=X&ved=2ahUKEwjcrJ-z0vH9AhVjJEQIHdKEBcAQ_h16BAhoEAE#imgrc=WtI6E4UKzZkpUM
 Title: Images
 Description: 
 Position: 14
